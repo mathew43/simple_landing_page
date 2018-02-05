@@ -1,0 +1,18 @@
+Zadanie: Projekt do portfolio - prosty landing page
+Twoim zadaniem jest:
+
+Utworzenie nowego projektu na GitHubie.
+Zakodowanie layoutu na podstawie grafiki (linki poni¿ej).
+Uzupe³nienie treœci - mog¹ byæ sztuczne (wype³niacze, np. z Lipsum lub LoremPixel).
+Zachowanie dobrych praktyk przedstawionych w dotychczasowych treœciach.
+Wykorzystanie Bootstrapa.
+Przystosowanie strony do odpowiedniego wyœwietlania na urz¹dzeniach mobilnych.
+Mo¿esz pobraæ design strony w formacie:
+
+PNG - mo¿esz skorzystaæ z dowolnego programu graficznego i/lub pluginu PerfectPixel
+PSD - plik warstwowy, który mo¿esz otworzyæ za pomoc¹ Adobe Photoshop, Avocode lub serwisu https://assets.adobe.com
+W submodule 3.4 znajdziesz tutoriale, które pomog¹ Ci odwzorowaæ szablon korzystaj¹c z plików .psd.
+
+Po zrealizowaniu projektu wyœlij link do mentora.
+
+Powodzenia! :)
